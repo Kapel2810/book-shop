@@ -64,7 +64,7 @@ const loadBooks = () => {
         return
     }
 
-
+//create a table
     let table = `
     <table> 
         <tr>
